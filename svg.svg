@@ -1,0 +1,57 @@
+<svg width="512" height="512" xmlns="http://www.w3.org/2000/svg">
+  <g id="boundingbox">
+    <rect fill="#fff" x="0" y="0" width="512" height="512"/>
+  </g>
+  <rect fill="#fff" stroke="#000" stroke-width="2" x="0" y="0" width="512" height="512"/>
+  <g transform="matrix(0.5000000000000002 0.8660254037844386 -0.8660254037844386 0.5000000000000002 388.5153510924905 -238.5540230600031)" mask="url(#boundingbox)">
+    <path stroke-width="2" stroke="black" stroke-linecap="round" fill="None" d="M 0 0 v 82 m 0 31 v 120 m 0 27 v 136 m 0 12 v 55 m 0 40 v 65 m 0 20 v 109 m 0 8 v 71 m 0 23 v 128 m 0 15"/>
+    <path stroke-width="2" stroke="black" stroke-linecap="round" fill="None" d="M 15 0 v 52 m 0 32 v 80 m 0 14 v 105 m 0 19 v 100 m 0 24 v 93 m 0 8 v 31 m 0 22 v 54 m 0 7 v 52 m 0 35 v 118 m 0 4"/>
+    <path stroke-width="3" stroke="black" stroke-linecap="round" fill="None" d="M 30 0 v 119 m 0 20 v 69 m 0 5 v 100 m 0 40 v 148 m 0 26 v 25 m 0 33 v 27 m 0 12 v 74 m 0 30 v 83 m 0 21"/>
+    <path stroke-width="4" stroke="black" stroke-linecap="round" fill="None" d="M 45 0 v 89 m 0 35 v 84 m 0 8 v 97 m 0 25 v 98 m 0 34 v 117 m 0 34 v 134 m 0 43 v 80 m 0 29"/>
+    <path stroke-width="4" stroke="black" stroke-linecap="round" fill="None" d="M 60 0 v 68 m 0 42 v 137 m 0 34 v 107 m 0 25 v 87 m 0 13 v 111 m 0 9 v 99 m 0 41 v 28 m 0 19 v 76 m 0 29"/>
+    <path stroke-width="4" stroke="black" stroke-linecap="round" fill="None" d="M 75 0 v 128 m 0 19 v 115 m 0 33 v 61 m 0 24 v 52 m 0 18 v 94 m 0 25 v 92 m 0 25 v 55 m 0 19 v 129 m 0 8"/>
+    <path stroke-width="3" stroke="black" stroke-linecap="round" fill="None" d="M 90 0 v 115 m 0 35 v 41 m 0 33 v 42 m 0 6 v 111 m 0 16 v 115 m 0 34 v 32 m 0 7 v 102 m 0 34 v 122 m 0 16"/>
+    <path stroke-width="4" stroke="black" stroke-linecap="round" fill="None" d="M 105 0 v 145 m 0 35 v 108 m 0 12 v 41 m 0 41 v 108 m 0 19 v 92 m 0 28 v 39 m 0 33 v 29 m 0 35 v 140 m 0 34"/>
+    <path stroke-width="3" stroke="black" stroke-linecap="round" fill="None" d="M 120 0 v 89 m 0 30 v 95 m 0 5 v 63 m 0 28 v 137 m 0 8 v 47 m 0 4 v 113 m 0 35 v 72 m 0 9 v 35 m 0 4 v 25 m 0 5 v 69 m 0 35"/>
+    <path stroke-width="2" stroke="black" stroke-linecap="round" fill="None" d="M 135 0 v 109 m 0 27 v 138 m 0 4 v 124 m 0 36 v 25 m 0 7 v 89 m 0 23 v 128 m 0 25 v 99 m 0 35"/>
+    <path stroke-width="4" stroke="black" stroke-linecap="round" fill="None" d="M 150 0 v 102 m 0 28 v 98 m 0 16 v 116 m 0 9 v 51 m 0 16 v 50 m 0 33 v 34 m 0 33 v 65 m 0 30 v 33 m 0 21 v 102 m 0 19"/>
+    <path stroke-width="3" stroke="black" stroke-linecap="round" fill="None" d="M 165 0 v 93 m 0 40 v 129 m 0 17 v 56 m 0 32 v 115 m 0 27 v 116 m 0 29 v 72 m 0 18 v 58 m 0 14 v 25 m 0 16"/>
+    <path stroke-width="3" stroke="black" stroke-linecap="round" fill="None" d="M 180 0 v 27 m 0 40 v 107 m 0 17 v 115 m 0 37 v 96 m 0 18 v 147 m 0 37 v 119 m 0 9 v 119 m 0 38"/>
+    <path stroke-width="2" stroke="black" stroke-linecap="round" fill="None" d="M 195 0 v 147 m 0 4 v 146 m 0 11 v 39 m 0 24 v 93 m 0 26 v 58 m 0 16 v 25 m 0 26 v 124 m 0 35 v 59 m 0 17"/>
+    <path stroke-width="3" stroke="black" stroke-linecap="round" fill="None" d="M 210 0 v 70 m 0 15 v 54 m 0 14 v 110 m 0 36 v 137 m 0 40 v 134 m 0 16 v 81 m 0 37 v 46 m 0 36"/>
+    <path stroke-width="2" stroke="black" stroke-linecap="round" fill="None" d="M 225 0 v 46 m 0 17 v 88 m 0 30 v 112 m 0 41 v 73 m 0 14 v 125 m 0 7 v 122 m 0 29 v 133 m 0 39"/>
+    <path stroke-width="2" stroke="black" stroke-linecap="round" fill="None" d="M 240 0 v 54 m 0 28 v 145 m 0 18 v 106 m 0 33 v 26 m 0 37 v 144 m 0 17 v 56 m 0 22 v 127 m 0 39"/>
+    <path stroke-width="3" stroke="black" stroke-linecap="round" fill="None" d="M 255 0 v 27 m 0 37 v 138 m 0 12 v 127 m 0 22 v 28 m 0 27 v 89 m 0 23 v 63 m 0 37 v 119 m 0 20 v 138 m 0 31"/>
+    <path stroke-width="3" stroke="black" stroke-linecap="round" fill="None" d="M 270 0 v 148 m 0 10 v 55 m 0 4 v 77 m 0 19 v 139 m 0 7 v 146 m 0 9 v 38 m 0 22 v 34 m 0 7 v 76 m 0 35"/>
+    <path stroke-width="2" stroke="black" stroke-linecap="round" fill="None" d="M 285 0 v 42 m 0 8 v 86 m 0 40 v 41 m 0 19 v 97 m 0 28 v 81 m 0 29 v 71 m 0 32 v 54 m 0 21 v 115 m 0 8 v 52 m 0 19"/>
+    <path stroke-width="3" stroke="black" stroke-linecap="round" fill="None" d="M 300 0 v 90 m 0 28 v 42 m 0 35 v 141 m 0 23 v 86 m 0 41 v 120 m 0 16 v 107 m 0 32 v 98 m 0 32"/>
+    <path stroke-width="4" stroke="black" stroke-linecap="round" fill="None" d="M 315 0 v 94 m 0 43 v 34 m 0 15 v 100 m 0 11 v 146 m 0 35 v 105 m 0 12 v 69 m 0 40 v 118 m 0 29"/>
+    <path stroke-width="3" stroke="black" stroke-linecap="round" fill="None" d="M 330 0 v 132 m 0 39 v 137 m 0 7 v 57 m 0 29 v 104 m 0 25 v 147 m 0 13 v 100 m 0 12 v 115 m 0 24"/>
+    <path stroke-width="4" stroke="black" stroke-linecap="round" fill="None" d="M 345 0 v 86 m 0 26 v 36 m 0 6 v 148 m 0 16 v 98 m 0 25 v 47 m 0 43 v 77 m 0 9 v 114 m 0 16 v 30 m 0 32 v 94 m 0 6"/>
+    <path stroke-width="2" stroke="black" stroke-linecap="round" fill="None" d="M 360 0 v 127 m 0 33 v 96 m 0 11 v 91 m 0 22 v 94 m 0 28 v 61 m 0 31 v 35 m 0 29 v 26 m 0 23 v 40 m 0 13 v 139 m 0 14"/>
+    <path stroke-width="4" stroke="black" stroke-linecap="round" fill="None" d="M 375 0 v 73 m 0 42 v 40 m 0 7 v 60 m 0 26 v 58 m 0 10 v 76 m 0 30 v 106 m 0 26 v 110 m 0 8 v 60 m 0 21 v 30 m 0 28 v 122 m 0 19"/>
+    <path stroke-width="3" stroke="black" stroke-linecap="round" fill="None" d="M 390 0 v 56 m 0 27 v 39 m 0 16 v 145 m 0 4 v 105 m 0 7 v 85 m 0 24 v 131 m 0 38 v 130 m 0 42"/>
+    <path stroke-width="4" stroke="black" stroke-linecap="round" fill="None" d="M 405 0 v 104 m 0 27 v 105 m 0 38 v 86 m 0 11 v 41 m 0 26 v 42 m 0 32 v 136 m 0 5 v 68 m 0 16 v 75 m 0 17"/>
+    <path stroke-width="3" stroke="black" stroke-linecap="round" fill="None" d="M 420 0 v 125 m 0 34 v 117 m 0 5 v 115 m 0 19 v 107 m 0 40 v 90 m 0 37 v 74 m 0 33 v 56 m 0 29"/>
+    <path stroke-width="2" stroke="black" stroke-linecap="round" fill="None" d="M 435 0 v 142 m 0 19 v 110 m 0 6 v 40 m 0 24 v 76 m 0 32 v 134 m 0 34 v 148 m 0 10 v 102 m 0 22"/>
+    <path stroke-width="4" stroke="black" stroke-linecap="round" fill="None" d="M 450 0 v 99 m 0 32 v 114 m 0 38 v 128 m 0 8 v 81 m 0 22 v 30 m 0 12 v 61 m 0 31 v 91 m 0 43 v 37 m 0 15"/>
+    <path stroke-width="3" stroke="black" stroke-linecap="round" fill="None" d="M 465 0 v 68 m 0 17 v 126 m 0 9 v 68 m 0 20 v 94 m 0 41 v 50 m 0 14 v 91 m 0 8 v 40 m 0 30 v 104 m 0 31 v 78 m 0 8"/>
+    <path stroke-width="2" stroke="black" stroke-linecap="round" fill="None" d="M 480 0 v 138 m 0 6 v 60 m 0 19 v 64 m 0 41 v 143 m 0 35 v 60 m 0 22 v 101 m 0 19 v 83 m 0 39"/>
+    <path stroke-width="2" stroke="black" stroke-linecap="round" fill="None" d="M 495 0 v 113 m 0 14 v 95 m 0 22 v 64 m 0 38 v 140 m 0 18 v 86 m 0 40 v 42 m 0 36 v 113 m 0 19"/>
+    <path stroke-width="3" stroke="black" stroke-linecap="round" fill="None" d="M 510 0 v 62 m 0 37 v 139 m 0 29 v 100 m 0 42 v 61 m 0 37 v 101 m 0 30 v 136 m 0 4 v 124 m 0 21"/>
+    <path stroke-width="4" stroke="black" stroke-linecap="round" fill="None" d="M 525 0 v 52 m 0 28 v 124 m 0 28 v 50 m 0 41 v 65 m 0 43 v 130 m 0 22 v 86 m 0 40 v 28 m 0 16 v 61 m 0 7 v 149 m 0 19"/>
+    <path stroke-width="2" stroke="black" stroke-linecap="round" fill="None" d="M 540 0 v 73 m 0 32 v 117 m 0 28 v 59 m 0 26 v 25 m 0 22 v 125 m 0 24 v 108 m 0 8 v 142 m 0 3 v 80 m 0 10"/>
+    <path stroke-width="2" stroke="black" stroke-linecap="round" fill="None" d="M 555 0 v 66 m 0 19 v 53 m 0 9 v 101 m 0 3 v 59 m 0 22 v 86 m 0 5 v 140 m 0 14 v 113 m 0 35 v 32 m 0 23 v 47 m 0 13"/>
+    <path stroke-width="2" stroke="black" stroke-linecap="round" fill="None" d="M 570 0 v 124 m 0 16 v 105 m 0 20 v 97 m 0 41 v 127 m 0 19 v 25 m 0 14 v 43 m 0 32 v 101 m 0 21 v 65 m 0 10"/>
+    <path stroke-width="2" stroke="black" stroke-linecap="round" fill="None" d="M 585 0 v 68 m 0 30 v 76 m 0 30 v 81 m 0 37 v 46 m 0 29 v 117 m 0 11 v 27 m 0 15 v 130 m 0 22 v 132 m 0 9"/>
+    <path stroke-width="4" stroke="black" stroke-linecap="round" fill="None" d="M 600 0 v 136 m 0 41 v 103 m 0 10 v 74 m 0 40 v 97 m 0 36 v 55 m 0 22 v 123 m 0 28 v 94 m 0 36"/>
+    <path stroke-width="3" stroke="black" stroke-linecap="round" fill="None" d="M 615 0 v 95 m 0 34 v 114 m 0 13 v 142 m 0 7 v 54 m 0 38 v 79 m 0 40 v 100 m 0 20 v 25 m 0 14 v 104 m 0 14"/>
+    <path stroke-width="2" stroke="black" stroke-linecap="round" fill="None" d="M 630 0 v 90 m 0 7 v 125 m 0 36 v 120 m 0 11 v 92 m 0 24 v 102 m 0 33 v 95 m 0 32 v 116 m 0 28"/>
+    <path stroke-width="4" stroke="black" stroke-linecap="round" fill="None" d="M 645 0 v 148 m 0 16 v 47 m 0 7 v 89 m 0 31 v 104 m 0 13 v 105 m 0 31 v 125 m 0 40 v 35 m 0 23 v 97 m 0 14"/>
+    <path stroke-width="3" stroke="black" stroke-linecap="round" fill="None" d="M 660 0 v 139 m 0 7 v 124 m 0 4 v 128 m 0 36 v 61 m 0 39 v 116 m 0 18 v 127 m 0 8 v 40 m 0 11"/>
+    <path stroke-width="4" stroke="black" stroke-linecap="round" fill="None" d="M 675 0 v 80 m 0 39 v 132 m 0 10 v 101 m 0 13 v 136 m 0 17 v 114 m 0 32 v 87 m 0 33 v 136 m 0 9"/>
+    <path stroke-width="3" stroke="black" stroke-linecap="round" fill="None" d="M 690 0 v 128 m 0 15 v 66 m 0 8 v 60 m 0 26 v 135 m 0 34 v 101 m 0 23 v 149 m 0 14 v 46 m 0 32"/>
+    <path stroke-width="4" stroke="black" stroke-linecap="round" fill="None" d="M 705 0 v 111 m 0 17 v 124 m 0 14 v 37 m 0 15 v 42 m 0 13 v 66 m 0 18 v 73 m 0 38 v 139 m 0 18 v 54 m 0 19 v 132 m 0 35"/>
+    <path stroke-width="3" stroke="black" stroke-linecap="round" fill="None" d="M 720 0 v 141 m 0 34 v 36 m 0 24 v 135 m 0 5 v 59 m 0 7 v 85 m 0 23 v 115 m 0 30 v 71 m 0 9 v 92 m 0 10"/>
+  </g>
+</svg>
